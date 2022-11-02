@@ -1,4 +1,34 @@
 #Homepage {
     background-color:black;
     color:cornflowerblue;
+    text-align: center;
+}
+
+#games {
+    background-color: black;
+    color: cornflowerblue;
+    text-align: center;
+}
+
+#help {
+    background-color:black;
+    color: cornflowerblue;
+    text-align: center;
+}
+
+#dashboard {
+    background-color: black;
+    color: cornflowerblue;
+    text-align: center;
+}
+
+#members {
+    background-color: black;
+    color: cornflowerblue;
+    text-align:center
+}
+
+body {
+    background-color:cornflowerblue;
+    color:white
 }

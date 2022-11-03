@@ -32,3 +32,39 @@ body {
     background-color:cornflowerblue;
     color:white
 }
+
+#rules {
+    text-align: center;
+    background-color: black;
+    color:cornflowerblue;
+}
+
+#motto {
+    text-align: center;
+    background-color: black;
+    color: cornflowerblue;
+}
+
+#passion {
+    text-align: center;
+    background-color: black;
+    color: cornflowerblue;
+}
+
+#simulator {
+    text-align: center;
+    background-color: black;
+    color: cornflowerblue;
+}
+
+#stats {
+    text-align: center;
+    background-color: black;
+    color: cornflowerblue;
+}
+
+#schedule {
+    text-align: center;
+    background-color: black;
+    color: cornflowerblue;
+}
